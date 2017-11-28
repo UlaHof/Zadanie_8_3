@@ -1,0 +1,23 @@
+{
+  "name": "zadanie8.3",
+  "version": "1.0.0",
+  "description": "kodilla-8.",
+  "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C3",
+  "scripts": {
+    "test": "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b\u001b[A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitku/JS-practice-2.git"
+  },
+  "author": "Ula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitku/JS-practice-2/issues"
+  },
+  "homepage": "https://github.com/kitku/JS-practice-2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
