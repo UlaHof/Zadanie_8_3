@@ -1,0 +1,39 @@
+body {
+  margin: 0 auto; }
+
+header {
+  height: 60px;
+  background-color: #ccc3c3; }
+  header ul {
+    float: right;
+    padding: 0;
+    margin: 0; }
+  header nav img {
+    padding: 15px 0 15px 10px; }
+  header nav li {
+    display: inline-block; }
+    header nav li a {
+      padding: 0 20px;
+      line-height: 60px;
+      display: block;
+      text-decoration: none;
+      text-transform: uppercase; }
+      header nav li a:hover {
+        background-color: #f5f5f5; }
+
+.hero {
+  background-image: url(http://res.freestockphotos.biz/pictures/8/8453-a-blue-sky-with-white-clouds-pv.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 400px;
+  text-align: center;
+  padding-top: 150px; }
+  .hero h1 {
+    text-transform: uppercase; }
+
+.info {
+  background-color: #8bb7fa;
+  text-align: center;
+  margin: 10px 20px; }
+
+/*# sourceMappingURL=style.css.map */
